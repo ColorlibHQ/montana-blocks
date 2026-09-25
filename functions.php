@@ -13,7 +13,7 @@
 
 defined( 'ABSPATH' ) || exit;
 
-define( 'MONTANA_VERSION', '1.0.1' );
+define( 'MONTANA_VERSION', '1.0.2' );
 
 /**
  * Theme supports.
