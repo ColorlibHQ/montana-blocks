@@ -33,7 +33,7 @@ defined( 'ABSPATH' ) || exit;
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"className":"montana-footer__lines","textColor":"on-dark"} -->
-<p class="montana-footer__lines has-on-dark-color has-text-color"><a href="tel:+14065550147">+1 (406) 555-0147</a><br><a href="mailto:stay@montanaresort.com">stay@montanaresort.com</a></p>
+<p class="montana-footer__lines has-on-dark-color has-text-color"><a href="tel:+14065550147">+1 (406) 555-0147</a><br><a href="mailto:hello@yourdomain.com">hello@yourdomain.com</a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 

@@ -39,7 +39,7 @@ PAGES = ["montana-pages"]
 
 PHONE = "+1 (406) 555-0147"
 PHONE_HREF = "tel:+14065550147"
-EMAIL = "stay@montanaresort.com"
+EMAIL = "hello@yourdomain.com"
 ADDRESS_1 = "1200 North Shore Road"
 ADDRESS_2 = "Lake Arrow Valley"
 # A public, embeddable film of a still mountain lake ("Peaceful Mountain Lake

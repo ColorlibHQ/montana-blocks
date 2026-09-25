@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this is
 
-**Montana 1.0.0** is a Colorlib **WordPress block theme** (full site editing) for
+**Montana 1.0.1** is a Colorlib **WordPress block theme** (full site editing) for
 hotels, lodges and mountain resorts. Text domain and slug `montana`. 31
 patterns, 10 templates, 3 parts, 8 colour palettes × 5 type pairings, 5
 starter pages built on activation, visitor dark mode, WooCommerce styling, and

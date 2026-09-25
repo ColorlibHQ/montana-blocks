@@ -55,7 +55,7 @@ defined( 'ABSPATH' ) || exit;
 
 <!-- wp:group {"className":"montana-contact__item montana-icon\u002d\u002dmail","style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"default"}} -->
 <div class="wp-block-group montana-contact__item montana-icon--mail"><!-- wp:paragraph {"className":"montana-contact__main"} -->
-<p class="montana-contact__main"><a href="mailto:stay@montanaresort.com">stay@montanaresort.com</a></p>
+<p class="montana-contact__main"><a href="mailto:hello@yourdomain.com">hello@yourdomain.com</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"className":"montana-contact__sub"} -->
