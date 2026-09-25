@@ -1,0 +1,71 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 3,
+	"title": "Brass",
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"name": "Base",
+					"slug": "base",
+					"color": "#ffffff"
+				},
+				{
+					"name": "Surface",
+					"slug": "surface",
+					"color": "#f8f7f3"
+				},
+				{
+					"name": "Contrast",
+					"slug": "contrast",
+					"color": "#222019"
+				},
+				{
+					"name": "Muted",
+					"slug": "muted",
+					"color": "#555249"
+				},
+				{
+					"name": "Primary",
+					"slug": "primary",
+					"color": "#80621a"
+				},
+				{
+					"name": "Primary deep",
+					"slug": "primary-deep",
+					"color": "#634b12"
+				},
+				{
+					"name": "Accent",
+					"slug": "accent",
+					"color": "#c9a24a"
+				},
+				{
+					"name": "Dark",
+					"slug": "dark",
+					"color": "#12110d"
+				},
+				{
+					"name": "Divider",
+					"slug": "divider",
+					"color": "#e8e4d9"
+				},
+				{
+					"name": "Overlay",
+					"slug": "overlay",
+					"color": "#ffffff"
+				},
+				{
+					"name": "On dark",
+					"slug": "on-dark",
+					"color": "#c7c2b4"
+				},
+				{
+					"name": "On primary",
+					"slug": "on-primary",
+					"color": "#ffffff"
+				}
+			]
+		}
+	}
+}

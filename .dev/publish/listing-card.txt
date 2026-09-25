@@ -1,0 +1,8 @@
+Picker line (themes listing, "Which theme fits…"):
+A hotel, lodge or mountain resort
+
+Card blurb:
+Montana is a free block theme for hotels, lodges and mountain resorts. It ships rooms with their prices and facts and a room booking request form that needs no plugin, with eight colour palettes and dark mode.
+
+Card image: montana-free-hotel-wordpress-theme-card.jpg (1200x900, the home hero)
+Card image alt: Montana WordPress theme home page: a timber lodge by a mountain lake under the headline Montana Resort, with the menu, the mark and a Book A Room button

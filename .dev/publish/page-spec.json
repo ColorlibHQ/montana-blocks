@@ -1,0 +1,172 @@
+{
+ "slug": "montana",
+ "name": "Montana",
+ "tint": "#f4f8fb",
+ "accent": "#0072bb",
+ "download": "https://updates.colorlib.com/download/theme/montana.zip",
+ "demo": "https://colorlibhub.com/montana-blocks/",
+ "elementor_demo": "https://colorlibhub.com/montana/",
+ "elementor_repo": "https://github.com/ColorlibHQ/montana",
+ "seo_title": "Montana – Free Hotel WordPress Theme - %%sitename%%",
+ "seo_description": "Montana is a free block theme for hotels, lodges and mountain resorts, with rooms, offers, a video band and a room booking request form that needs no plugin.",
+ "hero": {
+  "heading": "A hotel theme with a booking request form built in",
+  "text": "Montana is a free block theme for hotels, lodges and mountain resorts. A full-screen photograph slider, offers, a video band, the restaurant, rooms with their nightly prices and facts, and the form a hotel’s site exists for: a room booking request with check-in and check-out dates that needs no plugin. Eight colour palettes, dark mode and full site editing throughout.",
+  "image": "montana-block-theme-home.jpg"
+ },
+ "versions": {
+  "heading": "Two versions of Montana",
+  "lede": "The same design, built two ways. Both are free.",
+  "block": {
+   "kicker": "Recommended for new sites",
+   "title": "Block theme",
+   "text": "This download. Everything is edited in WordPress’s own Site Editor, with no plugins: the sections are patterns, with eight colour palettes, a dark mode and the booking request form built in."
+  },
+  "elementor": {
+   "kicker": "For sites built with Elementor",
+   "title": "Elementor edition",
+   "text": "The same design built for the Elementor page builder. It needs the free Elementor plugin and the Montana Companion plugin, which provides its hero, rooms, offers and video widgets. The source is free on GitHub."
+  }
+ },
+ "blocks": [
+  {
+   "type": "section",
+   "heading": "Rooms two by two, with their prices",
+   "text": "Four rooms edge to edge, each a photograph with its price from and its name, darkening towards the foot so the words read. Hover a room and the photograph eases in and a book now link slides into view.",
+   "image": "montana-block-theme-featured-rooms.jpg"
+  },
+  {
+   "type": "section",
+   "heading": "A rooms page with the facts guests ask for",
+   "text": "Every room with its photograph, its nightly price from, its size, beds, how many it sleeps and what it looks at, a line about it and a button that goes straight to the booking request.",
+   "image": "montana-block-theme-rooms-page.jpg"
+  },
+  {
+   "type": "section",
+   "heading": "A booking request without a plugin",
+   "text": "Check-in and check-out dates, guests, the room, name, email and a message, in the template’s white box over a photograph. The server checks the dates — check-in not before today, check-out at least a night later — and the request goes to the front desk by email, or to your reservation system with one filter. It says plainly that it is a request: nothing is booked or paid for.",
+   "image": "montana-block-theme-booking-form.jpg"
+  },
+  {
+   "type": "section",
+   "heading": "Eight palettes, checked before release",
+   "text": "Montana, the template’s own blue, then Pine, Glacier, Sunset, Heather and Brass, and two dark palettes, Midnight and Lodge. Each is measured against WCAG AA before the theme is built — text, links and button labels, in light mode and in dark — and a palette that fails is not written.",
+   "image": "montana-block-theme-colour-palettes.jpg"
+  },
+  {
+   "type": "section",
+   "heading": "Dark mode the guest controls",
+   "text": "The switch in the header is the visitor’s, separate from the palette you chose. It follows the reader’s system setting until they decide for themselves.",
+   "image": "montana-block-theme-dark-mode.jpg"
+  },
+  {
+   "type": "features",
+   "heading": "What you get"
+  },
+  {
+   "type": "section",
+   "heading": "A journal, too",
+   "text": "Trail notes, the kitchen’s seasons, news from the lake. Posts carry their date on a blue tab over the photograph, and archives, single posts with an author box, search and a 404 are all designed, with a sidebar of search, categories, recent posts, tags and the newsletter.",
+   "image": "montana-block-theme-blog.jpg"
+  },
+  {
+   "type": "faqs",
+   "heading": "Questions"
+  }
+ ],
+ "features": [
+  {
+   "heading": "A site on the first click",
+   "icon": "fa fa-home",
+   "text": "Activate Montana on a new site and it builds five pages — Home, Rooms, About, Blog and Contact — with a menu to match. Every word on them is ordinary, editable content."
+  },
+  {
+   "heading": "Room booking requests",
+   "icon": "fa fa-calendar",
+   "text": "Native date pickers for check-in and check-out, guests and room from a list, checked again on the server. Validated, protected by a nonce and a honeypot, and it works with JavaScript turned off."
+  },
+  {
+   "heading": "Rooms with their facts",
+   "icon": "fa fa-bed",
+   "text": "Four featured rooms with prices on the home page, and a rooms page with size, beds, guests and view for each, every one linked to the booking request."
+  },
+  {
+   "heading": "A photograph slider that behaves",
+   "icon": "fa fa-picture-o",
+   "text": "The hero and the about page turn their photographs with round arrows, pause when a visitor points at them, and stay still for anyone who asks for reduced motion."
+  },
+  {
+   "heading": "Eight palettes, five type pairings",
+   "icon": "fa fa-paint-brush",
+   "text": "Every palette is measured against WCAG AA before the theme is built, including white words over the photographs, in light mode and in dark."
+  },
+  {
+   "heading": "Dark mode",
+   "icon": "fa fa-moon-o",
+   "text": "A switch for the visitor, separate from the palette you chose. It follows the reader’s system setting until they pick for themselves."
+  },
+  {
+   "heading": "Contact and newsletter forms",
+   "icon": "fa fa-envelope",
+   "text": "A contact page with a map, and a newsletter sign-up in the footer and the sidebar, all without a plugin. Each form has its own filter to send submissions elsewhere."
+  },
+  {
+   "heading": "Your form plugin, styled",
+   "icon": "fa fa-plug",
+   "text": "Contact Form 7, WPForms, Gravity Forms, Fluent Forms, Forminator and Ninja Forms take on the theme’s colours and spacing."
+  },
+  {
+   "heading": "Fonts on your own server",
+   "icon": "fa fa-font",
+   "text": "Raleway and Playfair Display ship with the theme, with Latin Extended, so no visitor’s browser is sent to a font service."
+  }
+ ],
+ "faqs": [
+  {
+   "q": "Do I need a plugin?",
+   "a": "No. The booking request form, the contact form, the newsletter sign-up and dark mode are part of the theme, and so are the starter pages. WooCommerce is supported if you add it, and is not required."
+  },
+  {
+   "q": "Does the booking form show availability or take payments?",
+   "a": "No, and it says so on the page. It sends a request — dates, guests, room, name, email and a message — and the front desk replies with what is free and a price. Nothing is booked or charged until the guest confirms. If you need live availability and online payment, a booking plugin’s form can take its place on the Rooms page."
+  },
+  {
+   "q": "Where do booking requests go?",
+   "a": "To the site’s admin email address, sent with WordPress’s own <code>wp_mail()</code>, with the number of nights worked out for you. If your host cannot send mail, any SMTP plugin fixes it. To send requests to a reservation system, a CRM or a webhook instead, the <code>montana_booking_handlers</code> filter takes them over (<code>montana_contact_handlers</code> and <code>montana_newsletter_handlers</code> do the same for the other two forms), and Montana sends nothing of its own."
+  },
+  {
+   "q": "How do I change the rooms in the form?",
+   "a": "The Rooms page is ordinary content: edit the names, prices and facts in the Site Editor. The list of rooms in the booking form comes from the <code>montana_room_options</code> filter, and the guest counts from <code>montana_guest_options</code>."
+  },
+  {
+   "q": "Will it overwrite my pages?",
+   "a": "No. The five starter pages are built only on a site that has no pages of its own yet, and only once. Activating Montana over an existing site leaves your pages alone."
+  },
+  {
+   "q": "Can I change the colours?",
+   "a": "Eight palettes — Montana (the original blue), Pine, Glacier, Sunset, Heather, Brass, and the dark Midnight and Lodge — and five type pairings are one click each in the Site Editor under Styles. Each palette restyles every section."
+  },
+  {
+   "q": "Why is the blue deeper than in the HTML template?",
+   "a": "So links and button labels stay readable. The template’s #009dff is 2.9:1 against white, below the 4.5:1 that WCAG AA asks for. It stays as the accent, and a deeper shade of the same blue carries the words."
+  },
+  {
+   "q": "Can I turn dark mode or the animations off?",
+   "a": "Yes. Add <code>add_filter( 'montana_enable_dark_mode', '__return_false' );</code> or <code>add_filter( 'montana_enable_scroll_animations', '__return_false' );</code> to a child theme or a small plugin. With the animations off the sliders stop turning on their own; their arrows keep working."
+  },
+  {
+   "q": "What is the difference between the two versions?",
+   "a": "The block theme is edited in WordPress’s own Site Editor and needs no plugins. The Elementor edition is the same design built for the Elementor page builder; it needs the free Elementor plugin and the Montana Companion plugin, and is available on GitHub. For a new site we recommend the block theme."
+  },
+  {
+   "q": "Is it translation ready?",
+   "a": "Yes. Every string is translatable and <code>languages/montana.pot</code> is included."
+  },
+  {
+   "q": "Does it check for updates?",
+   "a": "Yes, twice a day, because it is distributed outside the WordPress.org theme directory. It sends the theme, WordPress and PHP versions, the locale, whether the site is a multisite, and an identifier derived from the site’s address with the site’s own secret key, so it cannot be turned back into the address. No personal data and no site name. The <code>montana_check_for_updates</code> filter switches it off."
+  }
+ ],
+ "details": "<table style=\"width:100%;border-collapse:collapse;\"><tr><th style=\"text-align:left;padding:10px 18px 10px 0;border-bottom:1px solid #e3ebf2;font-weight:600;white-space:nowrap;vertical-align:top;\">Requires</th><td style=\"padding:10px 0;border-bottom:1px solid #e3ebf2;\">WordPress 6.6 or newer</td></tr><tr><th style=\"text-align:left;padding:10px 18px 10px 0;border-bottom:1px solid #e3ebf2;font-weight:600;white-space:nowrap;vertical-align:top;\">PHP</th><td style=\"padding:10px 0;border-bottom:1px solid #e3ebf2;\">7.4 or newer</td></tr><tr><th style=\"text-align:left;padding:10px 18px 10px 0;border-bottom:1px solid #e3ebf2;font-weight:600;white-space:nowrap;vertical-align:top;\">Tested up to</th><td style=\"padding:10px 0;border-bottom:1px solid #e3ebf2;\">WordPress 7.1</td></tr><tr><th style=\"text-align:left;padding:10px 18px 10px 0;border-bottom:1px solid #e3ebf2;font-weight:600;white-space:nowrap;vertical-align:top;\">Licence</th><td style=\"padding:10px 0;border-bottom:1px solid #e3ebf2;\">GNU General Public License v2 or later</td></tr><tr><th style=\"text-align:left;padding:10px 18px 10px 0;border-bottom:1px solid #e3ebf2;font-weight:600;white-space:nowrap;vertical-align:top;\">Patterns</th><td style=\"padding:10px 0;border-bottom:1px solid #e3ebf2;\">17 to insert (13 sections, 4 page layouts) plus the header and footer, and 12 the templates use</td></tr><tr><th style=\"text-align:left;padding:10px 18px 10px 0;border-bottom:1px solid #e3ebf2;font-weight:600;white-space:nowrap;vertical-align:top;\">Templates</th><td style=\"padding:10px 0;border-bottom:1px solid #e3ebf2;\">10, plus 3 template parts</td></tr><tr><th style=\"text-align:left;padding:10px 18px 10px 0;border-bottom:1px solid #e3ebf2;font-weight:600;white-space:nowrap;vertical-align:top;\">Starter pages</th><td style=\"padding:10px 0;border-bottom:1px solid #e3ebf2;\">5, built on activation, with a menu</td></tr><tr><th style=\"text-align:left;padding:10px 18px 10px 0;border-bottom:1px solid #e3ebf2;font-weight:600;white-space:nowrap;vertical-align:top;\">Styles</th><td style=\"padding:10px 0;border-bottom:1px solid #e3ebf2;\">8 colour palettes × 5 type pairings</td></tr><tr><th style=\"text-align:left;padding:10px 18px 10px 0;border-bottom:1px solid #e3ebf2;font-weight:600;white-space:nowrap;vertical-align:top;\">Fonts</th><td style=\"padding:10px 0;border-bottom:1px solid #e3ebf2;\">Raleway and Playfair Display, self-hosted</td></tr><tr><th style=\"text-align:left;padding:10px 18px 10px 0;border-bottom:1px solid #e3ebf2;font-weight:600;white-space:nowrap;vertical-align:top;\">Icons</th><td style=\"padding:10px 0;border-bottom:1px solid #e3ebf2;\">Tabler Icons (MIT), drawn in the palette’s colours</td></tr><tr><th style=\"text-align:left;padding:10px 18px 10px 0;border-bottom:1px solid #e3ebf2;font-weight:600;white-space:nowrap;vertical-align:top;\">Forms</th><td style=\"padding:10px 0;border-bottom:1px solid #e3ebf2;\">Room booking request, contact and newsletter, no plugin needed</td></tr><tr><th style=\"text-align:left;padding:10px 18px 10px 0;border-bottom:1px solid #e3ebf2;font-weight:600;white-space:nowrap;vertical-align:top;\">Form plugins</th><td style=\"padding:10px 0;border-bottom:1px solid #e3ebf2;\">Contact Form 7, WPForms, Gravity Forms, Fluent Forms, Forminator, Ninja Forms</td></tr><tr><th style=\"text-align:left;padding:10px 18px 10px 0;border-bottom:1px solid #e3ebf2;font-weight:600;white-space:nowrap;vertical-align:top;\">Build step</th><td style=\"padding:10px 0;border-bottom:1px solid #e3ebf2;\">None — no npm, no SCSS</td></tr></table>",
+ "card": "montana-free-hotel-wordpress-theme.jpg"
+}

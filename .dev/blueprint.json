@@ -1,0 +1,10 @@
+{
+  "$schema": "https://playground.wordpress.net/blueprint-schema.json",
+  "preferredVersions": { "php": "8.3", "wp": "latest" },
+  "steps": [
+    { "step": "defineWpConfigConsts", "consts": { "WP_DEBUG": true, "WP_DEBUG_DISPLAY": true } },
+    { "step": "setSiteOptions", "options": { "blogname": "Montana", "blogdescription": "A lakeside hotel in the mountains", "permalink_structure": "/%postname%/" } },
+    { "step": "activateTheme", "themeFolderName": "montana" },
+    { "step": "login", "username": "admin", "password": "password" }
+  ]
+}
